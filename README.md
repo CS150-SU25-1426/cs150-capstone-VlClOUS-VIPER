@@ -4,4 +4,4 @@
 
 Sources Used: ChatGPT, Programming in C++ by Nell Dale and Chip Weems
 
-The purpose of this program is to keep track of a grocery store's inventory of grocery (specifically food) items, including an ID associated to each group and an expiration date (which makes it easy to find bad items and delete them from the virtual inventory after you have physically gotten rid of them). Full functionality will be added in phase 2.
+The purpose of this program is to keep track of a grocery store's inventory of grocery (specifically food) items, including an ID associated to each group and an expiration date (which makes it easy to find bad items and delete them from the virtual inventory after you have physically gotten rid of them). For phase 2 I added a user interface so that the user can have a grocery list and they can interact with the program to manually add/delete/edit items on the grocery list.

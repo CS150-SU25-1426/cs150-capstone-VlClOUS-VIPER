@@ -41,4 +41,4 @@ bool GroceryItem::operator==(const GroceryItem& otherItem) const {
     }
     return false;
     //checks if everything is the same except for the ID...seems more useful that way
-}
+} 
